@@ -5,10 +5,10 @@
 </p>
 
 [![Support on Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/her_stats_app)
-
 [![Star on GitHub](https://img.shields.io/github/stars/Daniil15DDD/hsr_stats?style=for-the-badge&logo=github&color=gold)](https://github.com/Daniil15DDD/hsr_stats)
-
 [![Total Downloads](https://img.shields.io/github/downloads/Daniil15DDD/hsr_stats/total?style=for-the-badge&color=cyan&label=Total%20Downloads)](https://github.com/Daniil15DDD/hsr_stats/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-0A84FF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Daniil15DDD/hsr_stats/releases/latest)
+
 
 ## ✨ Features
 
