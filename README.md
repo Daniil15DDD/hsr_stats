@@ -4,26 +4,16 @@
   <img src="assets/IMG_0898.png" width="220" />
 </p>
 
-<p align="center">
+[![Support on Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/her_stats_app)
 
-<a href="https://ko-fi.com/her_stats_app">
-  <img src="https://img.shields.io/badge/☕%20SUPPORT%20ON-KO--FI-FF5E5B?style=for-the-badge" />
-</a>
+[![Star on GitHub](https://img.shields.io/github/stars/Daniil15DDD/hsr_stats?style=for-the-badge&logo=github&color=gold)](https://github.com/Daniil15DDD/hsr_stats)
 
-<br><br>
-
-<img src="https://img.shields.io/github/stars/Daniil15DDD/hsr_stats?style=for-the-badge&label=STARS&color=FFD700" />
-
-<br><br>
-
-<img src="https://img.shields.io/github/downloads/Daniil15DDD/hsr_stats/total?style=for-the-badge&label=TOTAL%20DOWNLOADS&color=00C2FF" />
-
-</p>
+[![Total Downloads](https://img.shields.io/github/downloads/Daniil15DDD/hsr_stats/total?style=for-the-badge&color=cyan&label=Total%20Downloads)](https://github.com/Daniil15DDD/hsr_stats/releases)
 
 ## ✨ Features
 
 - 🔎 Import profile via in-game UID  
-- 📊 DPS Score system (S → SS+)  
+- 📊 DPS Score system (F → AEON)  
 - 🛠 Build recommendations (Light Cones, Relics, Planars)  
 - 📈 Stat optimization guidance  
 - 🏆 Updated tier list  
