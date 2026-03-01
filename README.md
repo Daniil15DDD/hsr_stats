@@ -1,7 +1,7 @@
 # 🚀 HSR Stats
 
 <p align="left">
-  <img src="assets/IMG_0898.png" width="220" />
+  <img src="assets/IMG_0898.png" width="150" />
 </p>
 
 [![Support on Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/her_stats_app)
