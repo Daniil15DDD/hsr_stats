@@ -4,14 +4,15 @@ title: "[Bug]: "
 labels: ["bug"]
 
 body:
-- type: checkboxes
-  attributes:
-    label: "Is there an existing issue for this?"
-    options:
-    - label: I have searched the existing issues
-      required: true
+  - type: checkboxes
+    id: existing_issue
+    attributes:
+      label: "Is there an existing issue for this?"
+      options:
+        - label: "I have searched the existing issues"
+          required: true
       
-- type: dropdown
+  - type: dropdown
     id: device
     attributes:
       label: Device
@@ -28,9 +29,9 @@ body:
       label: Steps to reproduce
       description: Please attach screenshots or videos if possible
       placeholder: |
-        1. Open the app
-        2. Tap on ...
-        3. Error appears
+        1. 
+        2. 
+        3. 
     validations:
       required: true
 
