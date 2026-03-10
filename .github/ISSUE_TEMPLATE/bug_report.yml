@@ -1,0 +1,40 @@
+name: Bug Report
+description: Report a bug in the app
+title: "[Bug]: "
+labels: ["bug"]
+
+body:
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      description: Which platform are you using?
+      options:
+        - iOS
+        - Android
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Please attach screenshots or videos if possible
+      placeholder: |
+        1. Open the app
+        2. Tap on ...
+        3. Error appears
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+      description: What should have happened?
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or videos
+      description: Drag screenshots here
